@@ -1,0 +1,15 @@
+.padding{
+    border: rgb(41, 189, 247) 3px solid;
+    background-color: rgb(41, 189, 247) ;
+    border-radius:4px 4px 4px 4px;
+    width:8rem;
+    height:4rem;
+    width: 8rem;
+    padding-left:1.5rem;
+    padding-top:2.5rem;
+    padding-right: 0.5rem;
+   margin-top:16.5rem;
+   margin-left:40rem;
+   display:inline-block;
+   position: fixed;
+}

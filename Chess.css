@@ -1,0 +1,14 @@
+table{
+    border:3px solid black;
+    width: 500px ;
+    height: 500px;
+    margin: auto;
+    margin-top: 7rem;
+}
+.black{
+    background-color: black;
+    width:50px;
+}
+.wite{
+    background-color: rgb(229, 229, 230);
+}

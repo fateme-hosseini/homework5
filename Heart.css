@@ -1,0 +1,434 @@
+.heart1{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+  display: inline-block;
+  margin-top: 13rem;
+  margin-left:38rem;
+  position: relative;
+  }
+ .heart2{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+  display: inline-block;
+  position: absolute;
+  top:12.5rem;
+  left:37rem;
+  
+
+} 
+ .heart3{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+  display: inline-block;
+ position: absolute;
+ top: 12.5rem;
+ left:44.5rem ;
+}
+.heart4{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+  display: inline-block;
+  position: absolute;
+  top:12.5rem;
+  left:46rem;
+  
+}
+.heart5{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top: 14rem;
+ left:47.5rem;
+}
+.heart6{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left: 46rem;
+ 
+}
+ .heart7{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:44.5rem;
+ 
+}
+.heart8{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:43rem;
+ 
+}
+.heart9{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:40rem;
+ 
+}
+.heart10{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:38.5rem;
+}
+.heart11{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:37rem;
+}
+.heart12{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:14rem;
+ left:35.5rem;
+}
+/* .heart13{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:49rem;
+} */
+.heart14{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:47.5rem;
+}
+.heart15{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:46rem;
+}
+.heart16{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:44.5rem;
+}
+.heart17{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:43rem;
+}
+.heart18{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:41.5rem;
+}
+.heart19{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:40rem;
+}
+.heart20{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:38.5rem;
+}
+.heart21{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:37rem;
+}
+.heart22{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:15.5rem;
+ left:35.5rem;
+} 
+.heart23{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:47.5rem;
+} 
+.heart24{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:46rem;
+} 
+.heart25{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:44.5rem;
+} 
+.heart26{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:43rem;
+} 
+.heart27{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:41.5rem;
+} 
+.heart28{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:40rem;
+} 
+.heart30{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:38.5rem;
+} 
+.heart31{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:37rem;
+} 
+.heart32{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:17rem;
+ left:35.5rem;
+} 
+.heart33{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:46rem;
+} 
+.heart34{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:44.5rem;
+} 
+.heart35{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:43rem;
+} 
+.heart36{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:41.5rem;
+} 
+.heart37{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:40rem;
+} 
+.heart38{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:38.5rem;
+} 
+.heart39{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:18.5rem;
+ left:37rem;
+} 
+.heart40{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:20rem;
+ left:44.5rem;
+} 
+.heart41{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:20rem;
+ left:43rem;
+} 
+.heart42{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:20rem;
+ left:41.5rem;
+} 
+.heart43{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:20rem;
+ left:40rem;
+} 
+.heart44{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:20rem;
+ left:38.5rem;
+} 
+.heart45{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:21.5rem;
+ left:43rem;
+} 
+.heart46{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:21.5rem;
+ left:41.5rem;
+} 
+.heart47{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:21.5rem;
+ left:40rem;
+} 
+.heart48{
+    border: rgb(242, 25, 98) solid 2px;
+    width:20px ;
+    height:20px ;
+  background-color: rgb(242, 25, 98);
+ position: absolute;
+ top:23rem;
+ left:41.5rem;
+} 

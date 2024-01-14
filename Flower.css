@@ -1,0 +1,77 @@
+.branch{
+    border: rgb(102, 249, 126) 3px solid;
+    background-color: rgb(102, 249, 126);
+    width:0.5rem;
+    height:20rem ;
+    margin-left:45rem;
+    margin-top:25rem;
+    position: relative;
+}
+.circle{
+    border: yellow 3px solid;
+    background-color: yellow;
+    width:2rem;
+    height:2rem;
+    border-radius: 200rem;
+position: absolute;
+bottom:18rem;
+right: -10.5px;;
+left:0.9;
+display: inline-block;
+}
+.leaff{
+    border: red 3px solid;
+    width:8rem;
+    height:8rem;
+    border-radius:1000px 30px;
+    background-color: red;
+ position: absolute;
+ bottom:21.5rem;
+ transform: rotate(-0725deg);
+}
+.leaf{
+    border: red 3px solid;
+    width:8rem;
+    height:8rem;
+    border-radius:1000px 30px;
+    background-color: red;
+    position: absolute;
+  right:10.5rem;
+  top:0.5rem;
+  bottom:1rem;
+  transform: rotate(075deg);}
+
+.leaf2{
+    border: red 3px solid;
+    width:8rem;
+    height:8rem;
+    border-radius:1000px 30px;
+    background-color: red;
+    position: absolute;
+    top: 0.25rem;
+    transform:  rotate(1000deg);
+} 
+.leaf3{
+    border: red 3px solid;
+    width:8rem;
+    height:8rem;
+    border-radius:1000px 30px;
+    background-color: red;
+    position: absolute;
+   right:1rem;
+  bottom:10rem;
+    transform:  rotate(-09002deg);
+} 
+
+.leaf4{
+    border: rgb(57, 134, 46) 3px solid;
+    width:8rem;
+    height:8rem;
+    border-radius:1000px 30px;
+    background-color: rgb(19, 219, 82);
+    position: absolute;
+   right:1rem;
+  bottom:1rem;
+    transform:  rotate(-1002deg);
+} 
+

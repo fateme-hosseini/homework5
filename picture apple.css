@@ -1,0 +1,44 @@
+.apple{
+    border: rgb(146, 144, 144) 3px solid;
+    background-color:rgb(240, 240, 240) ;
+    width:20rem ;
+    height:25rem;
+    border-radius:10px 10px 10px 10px;
+    position: relative;
+}
+img{
+    border: black solid 2px;
+    border-radius: 10px 10px 10px 10px;
+    width:17rem ;
+    height:12rem ;
+    position: absolute;
+    top: 2.5rem;
+    right:78rem;
+    left: 2rem;
+}
+.ptag{
+font-size: x-large;
+font-style: inherit;
+position: absolute;
+bottom: 27rem;
+left: 1rem;
+}
+.lorem{
+    font-size:large;
+    position: absolute;
+  right:76rem;
+   bottom: 24rem;
+}
+.span{
+    color: orange;
+    position: absolute;
+    bottom: 23rem;
+    right:90rem ;
+}
+.button{
+    position: absolute;
+    bottom:21rem;
+    color: white;
+    right:90rem ;
+    background-color: rgb(214, 140, 1);
+}
